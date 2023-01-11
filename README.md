@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ortwin or Better known as iCode</h1>
+<h1 align="center">Hi 👋, I'm Ortwin or Better known as iCode</h1>
 <h3 align="center">A passionate young back-end developer from Belgium.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twqntysjr&label=Profile%20views&color=0e75b6&style=flat" alt="twqntysjr" /> </p>
